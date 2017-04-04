@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://E:/projects/SocketFramework" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://E:/projects/SocketFramework" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://E:/projects/SocketFramework/Tsy/Vendor/aliyun-oss-php-sdk-2.2.0.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://E:/projects/SocketFramework/Tsy/Vendor/aliyun-oss-php-sdk-2.2.0.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

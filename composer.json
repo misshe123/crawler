@@ -1,0 +1,21 @@
+{
+    "name": "misshe123/crawler",
+    "description": "the crawler",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors":[
+        {
+            "name":"miss.He",
+            "email":"1102149919@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Crawler\\": "src/"
+        }
+    }
+}
